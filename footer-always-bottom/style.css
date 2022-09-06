@@ -1,0 +1,12 @@
+.wrapper {
+  min-height: 100vh;
+
+  /* Equal to height of footer */
+  /* But also accounting for potential margin-bottom of last child */
+  margin-bottom: -50px;
+}
+.footer {
+  height: 50px;
+}
+
+// Main article: https://css-tricks.com/couple-takes-sticky-footer/
