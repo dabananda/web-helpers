@@ -18,7 +18,7 @@
   "workbench.list.smoothScrolling": true,
   "editor.defaultFormatter": "esbenp.prettier-vscode",
   "prettier.arrowParens": "avoid",
-  "prettier.jsxBracketSameLine": true,
+  "prettier.bracketSameLine": true,
   "prettier.singleQuote": true,
   "terminal.integrated.defaultProfile.windows": "Git Bash",
   "emmet.includeLanguages": {
@@ -28,7 +28,5 @@
   "editor.linkedEditing": true,
   "javascript.updateImportsOnFileMove.enabled": "always",
   "files.autoSave": "afterDelay",
-  "workbench.editor.enablePreview": false,
-  "liveServer.settings.CustomBrowser": "chrome:PrivateMode",
-  "C_Cpp.clang_format_fallbackStyle": "{ BasedOnStyle: Google, IndentWidth: 2, ColumnLimit: 0}",
+  "workbench.editor.enablePreview": false
 }
