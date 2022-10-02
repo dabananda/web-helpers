@@ -16,7 +16,7 @@
   "editor.cursorBlinking": "expand",
   "editor.cursorSmoothCaretAnimation": true,
   "workbench.list.smoothScrolling": true,
-  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  // "editor.defaultFormatter": "esbenp.prettier-vscode",
   "prettier.arrowParens": "avoid",
   "prettier.bracketSameLine": true,
   "prettier.singleQuote": true,
@@ -28,5 +28,6 @@
   "editor.linkedEditing": true,
   "javascript.updateImportsOnFileMove.enabled": "always",
   "files.autoSave": "afterDelay",
-  "workbench.editor.enablePreview": false
+  "workbench.editor.enablePreview": false,
+  "C_Cpp.clang_format_fallbackStyle": "{ BasedOnStyle: Google, IndentWidth: 2, ColumnLimit: 0}"
 }
