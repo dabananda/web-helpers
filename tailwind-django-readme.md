@@ -1,6 +1,6 @@
-# Tailwind CSS v4 Installation Guide for Django
+# Tailwind CSS Installation Guide for Django
 
-This guide will walk you through the steps to install and configure Tailwind CSS v4 in your Django project.
+This guide will walk you through the steps to install and configure Tailwind CSS in your Django project.
 
 ## Prerequisites
 
