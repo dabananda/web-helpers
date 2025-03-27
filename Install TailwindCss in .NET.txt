@@ -1,6 +1,6 @@
 Install TailwindCss in ASP.NET Core MVC project
 
-1. create .net 8 mvc project
+1. create .net mvc project
 2. goto project directory and open terminal
 3. npm init -y
 4. npm install -D tailwindcss@3 postcss autoprefixer
