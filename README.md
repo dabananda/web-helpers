@@ -1,6 +1,6 @@
 # Django Project Setup Guide
 
-This guide provides step-by-step instructions for setting up and running a Django project with Tailwind CSS v4 and PostgreSQL on your machine.
+This guide provides step-by-step instructions for setting up and running a Django project with TailwindCSS and PostgreSQL on your machine.
 
 ## Table of Contents
 - [Creating a New Django Project](#creating-a-new-django-project)
