@@ -1,4 +1,4 @@
-# Tailwind CSS Installation Guide for ASP.NET Core MVC
+# Tailwind CSS Installation Guide for ASP.NET Core
 
 ## Prerequisites
 - .NET 8 SDK
