@@ -1,4 +1,4 @@
-# Tailwind CSS Installation Guide for Django
+# Tailwind CSS Installation Guide in Django
 
 This guide will walk you through the steps to install and configure Tailwind CSS in your Django project.
 
