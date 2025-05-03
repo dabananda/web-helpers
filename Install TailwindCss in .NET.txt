@@ -1,4 +1,4 @@
-Install TailwindCss in ASP.NET Core project
+Install TailwindCss in ASP.NET Core MVC project
 
 1. create .net mvc project
 2. goto project directory and open terminal
