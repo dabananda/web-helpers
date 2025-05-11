@@ -1,4 +1,4 @@
-# Django Project Setup
+# Django Project Set-up
 
 This guide provides step-by-step instructions for setting up and running a Django project with TailwindCSS and PostgreSQL on your machine.
 
