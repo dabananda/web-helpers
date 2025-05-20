@@ -2,7 +2,7 @@
 
 ## Prerequisites
 - .NET 8 SDK
-- Node.js and npm installed
+- Node.js installed
 
 ## Step-by-Step Installation Guide
 
